@@ -1,4 +1,4 @@
-package com.evolvus.springboot.curd.domain;
+package com.evolvus.springboot.curd.entity;
 
 import java.io.Serializable;
 import java.util.Date;

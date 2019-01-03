@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.evolvus.springboot.curd.domain.Note;
+import com.evolvus.springboot.curd.entity.Note;
 import com.evolvus.springboot.curd.exception.ResourceNotFoundException;
 import com.evolvus.springboot.curd.repository.NoteRepository;
 
